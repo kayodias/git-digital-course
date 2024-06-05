@@ -2,4 +2,4 @@
 
 # Gravando mudanças 
 
-*comando push
+*comando git push funcional
